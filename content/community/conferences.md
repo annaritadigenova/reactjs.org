@@ -17,6 +17,11 @@ March 30-31, 2019 in San Francisco, USA
 
 [Website](https://www.reactathon.com/) - [Twitter](https://twitter.com/reactathon)
 
+### Codemotion Amsterdam 2019
+April 2-3, 2019 Amsterdam, NL
+
+[Website] (nts.codemotion.com/conferences/amsterdam/2019/) -  [Twitter] (https://twitter.com/CodemoAmsterdam)
+
 ### App.js Conf 2019 {#appjs-conf-2019}
 April 4-5, 2019 in Kraków, Poland
 
